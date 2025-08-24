@@ -1,5 +1,5 @@
 # PGPBS
-Code for the paper: Yongxiang LI, Yuanyuan LI, Di WANG*. (2025). Periodic Gaussian Process Controlled B-spline for Scalable Modeling of Irregularly Spaced Signals. IEEE Transactions on Information Theory.
+Code for the paper: Yongxiang LI, Yuanyuan LI, Di WANG*. (2025). Periodic Gaussian Process Controlled B-spline for Scalable Modeling of Irregularly Spaced Signals. IEEE Transactions on Information Theory. Online Published. https://doi.org/10.1109/TIT.2025.3595144   
 ------------------------------------------------------------------
 
 Abstract: 
